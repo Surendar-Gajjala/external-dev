@@ -1,6 +1,6 @@
-# Z2 Frontend Dashboard - Technical Assessment
+# GSR Frontend Dashboard - Technical Assessment
 
-A technical assessment implementation of Z2's dashboard design, built to demonstrate frontend development expertise using React and modern web technologies.
+A technical assessment implementation of GSR's dashboard design, built to demonstrate frontend development expertise using React and modern web technologies.
 
 ## 🎯 Assessment Objectives
 
@@ -94,7 +94,7 @@ This implementation focuses on demonstrating:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/aadarsh10c/Z2Dashboard.git
+git clone https://github.com/aadarsh10c/GSRDashboard.git
 ```
 
 2. Install dependencies:

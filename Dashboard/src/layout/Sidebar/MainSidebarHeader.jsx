@@ -3,7 +3,7 @@ import {
   SidebarTrigger,
   useSidebar,
 } from "@/components/ui/sidebar";
-import Z2Logo from "@/assets/z2_logo.jpg";
+import GSRLogo from "@/assets/GSR_logo.jpg";
 /**
  * MainSidebarHeader Component
  *
@@ -28,8 +28,8 @@ export default function MainSidebarHeader() {
     <SidebarHeader>
       <div className="flex items-center justify-between gap-2">
         <img
-          src={Z2Logo}
-          alt="Z2Data Logo"
+          src={GSRLogo}
+          alt="GSRData Logo"
           width={25}
           height={25}
           onClick={toggleSidebar}
