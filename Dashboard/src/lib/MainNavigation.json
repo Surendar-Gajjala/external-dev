@@ -1,0 +1,26 @@
+[
+  {
+    "path": "/",
+    "name": "Home",
+    "component": "HomeComponent",
+    "exact": true,
+    "protected": false,
+    "subPaths": []
+  },
+  {
+    "path": "/part-risk-manager",
+    "name": "Part Risk Manager",
+    "component": "PartRiskManagerComponent",
+    "exact": true,
+    "protected": true,
+    "subPaths": [
+      {
+        "path": "/part-risk-manager/my-data",
+        "name": "My Data",
+        "component": "MyDataComponent",
+        "exact": true,
+        "protected": true
+      }
+    ]
+  }
+]
